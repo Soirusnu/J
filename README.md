@@ -20,7 +20,6 @@ General Info
 
 * Need more help? Search or ask on the forum.
 
-* JJSploit supports Unified Naming Convention (![UNC](https://wearedevs.net/images/unc.png))
-). A movement for universal script compatibility.
+* JJSploit supports Unified Naming Convention (<img src="https://wearedevs.net/images/unc.png" alt="UNC" height="200"/>). A movement for universal script compatibility.
 
 Disclaimer: Not every piece of software found on WeAreDevs.net is created by us. If you're the creator of something found on WeAreDevs, and would like it taken down, please email us at contact@wearedevs.net.
